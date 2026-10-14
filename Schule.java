@@ -20,7 +20,7 @@ public class Schule
            return matura;
        }
        
-       public boolean betAbendschule()
+       public boolean getAbendschule()
        {
            return abendschule;
        }
